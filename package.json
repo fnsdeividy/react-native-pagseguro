@@ -1,0 +1,29 @@
+{
+  "name": "react-native-pagseguro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "pagseguro",
+    "react-native-pagseguro"
+  ],
+  "author": {
+    "name": "Deividy Ferreira",
+    "email": "fnsdeividy@gmail.com",
+    "url": "https://github.com/fnsdeividy"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-swift": "^1.2.3"
+  },
+  "dependencies": {
+    "react-native": "^0.71.5"
+  }
+}
